@@ -1,4 +1,11 @@
 {
+    "HUB" : {
+        "latest" : "1.0.0",
+        "url" : {
+            "1.0.0" : "url",
+            "0.0.0" : "null"
+        }
+    },
     "menu" : {
         "ver":{
         "1.0.0" : "https://github.com/taisan11/IOS-shortcuts/raw/main/menu/menu.shortcut"
