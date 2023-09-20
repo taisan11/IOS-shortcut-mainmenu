@@ -1,0 +1,9 @@
+{
+    "HUB" : {
+        "installd" : true,
+        "ver" : "1.0.0"
+    },
+    "menu" : {
+        "installd" : false
+    }
+}
