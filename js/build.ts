@@ -1,7 +1,7 @@
 import {build} from 'bun'
 
 await build({
-    entrypoints:['./src/index.ts'],
+    entrypoints:['./src/safari-x/safari-x.ts'],
     outdir:'./dist',
     minify:true,
 })

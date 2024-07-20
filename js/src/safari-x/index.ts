@@ -1,1 +1,0 @@
-console.log('safari-x/index.ts');

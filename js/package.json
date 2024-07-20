@@ -1,6 +1,9 @@
 {
   "name": "js",
   "module": "index.ts",
+  "scripts": {
+    "build":"bun run ./build.ts"
+  },
   "peerDependencies": {
     "typescript": "^5.0.0"
   },
